@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/github-metrics.svg" alt="Metrics" />
+  <figure><embed src="https://wakatime.com/share/@Enotsky/cebb2fa0-5f72-4742-85b8-9c804edb6775.svg"></embed></figure>
   <br />
   <a href="https://t.me/abombalemba">
     <img
