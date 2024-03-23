@@ -11,32 +11,27 @@
   
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
 </div>
-
 <div align="center">
   <h3>IDE</h3>
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black">
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white">
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important">
 </div>
-
 <div align="center">
   <h3>OS</h3>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 </div>
-
 <div align="center">
   <h3>DB</h3>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white">
 </div>
-
 <div align="center">
   <h3>services</h3>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white">
 </div>
-
 <div align="center">
   <figure>
     <embed src="https://wakatime.com/share/@Enotsky/cebb2fa0-5f72-4742-85b8-9c804edb6775.svg">
