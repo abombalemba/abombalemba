@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center", white-space="nowrap">
   <h3>skills</h3>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white">
