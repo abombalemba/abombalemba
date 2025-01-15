@@ -9,6 +9,18 @@
 </pre>
 </b>
 
+<b>
+<pre>
+\\       // |--|            __      |===\  ====== //===\\  |--|            __      \\       // |  ____|
+ \\     //  |  |          /    \    | |\ \   ||   \\       |  |          /    \     \\     //  | |____
+  \\   //   |  |         /  ==  \   | | ||   ||    \\==\\  |  |         /  ==  \     \\   //   |  ____|
+   \\ //    |  |_____   /   __   \  | |/ /   ||         // |  |_____   /   __   \     \\ //    | |____
+    \//     |________| /__/    \__\ |===/  ====== \\===//  |________| /__/    \__\     \//     |______|
+     
+</pre>
+</b>
+
+
 
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=abombalemba&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
