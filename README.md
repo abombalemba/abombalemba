@@ -1,4 +1,4 @@
-<div style="style="background: linear-gradient(to right, #1a1a2e, #16213e); padding: 20px; border-radius: 15px;"">
+<div style="background: linear-gradient(to right, #1a1a2e, #16213e); padding: 20px; border-radius: 15px;">
      
 <b>
 <pre>
