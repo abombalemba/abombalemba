@@ -13,10 +13,10 @@
 
 <p align="center">
   <a href="#">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=abombalemba&show_icons=true&theme=radical&hide=contribs&show=discussions_answered&rank_icon=github&include_all_commits=true" />
+    <img height="200" max-height="200" min-height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=abombalemba&show_icons=true&theme=radical&hide=contribs&show=discussions_answered&rank_icon=github&include_all_commits=true" />
   </a>
   <a href="#">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abombalemba&hide=css,scss&langs_count=8&layout=compact&theme=radical" />
+    <img height="200" max-height="200" min-height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abombalemba&hide=css,scss&langs_count=8&layout=compact&theme=radical" />
   </a>
 </p>
 
@@ -52,8 +52,4 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-660066?logo=eclipse-mosquitto&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abombalemba&color=red&style=flat-square" alt="Profile views" />
 </p>
