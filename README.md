@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <a href="#">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abombalemba&hide=css,scss&langs_count=8&layout=compact&theme=radical" />
   </a>
