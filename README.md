@@ -15,9 +15,9 @@
   <a href="#">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=abombalemba&show_icons=true&theme=radical&hide=contribs&show=discussions_answered&rank_icon=github&include_all_commits=true" />
   </a>
+</p>
 
-  <br>
-  
+<p>
   <a href="#">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abombalemba&hide=css,scss&langs_count=8&layout=compact&theme=radical" />
   </a>
