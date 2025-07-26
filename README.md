@@ -1,3 +1,5 @@
+<div style="style="background: linear-gradient(to right, #1a1a2e, #16213e); padding: 20px; border-radius: 15px;"">
+     
 <b>
 <pre>
      __      |=====\ //====\\ |---\     /---| |=====\      __      |--|       |  ____| |---\     /---| |=====\      __
@@ -56,3 +58,5 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-660066?logo=eclipse-mosquitto&logoColor=white" />
 </p>
+
+</div>
